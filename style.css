@@ -8,4 +8,11 @@ a {
 }
 a:hover {
   color: black;
+}
+
+#jstask input {
+  width: 200px;
+}
+#jstask .btn {
+  width: 100px;
 }/*# sourceMappingURL=style.css.map */
